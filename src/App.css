@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Merienda', cursive;
+}
+
+
+.bg-mynav{
+    background: linear-gradient(90deg, rgb(168, 90, 175) 0%, rgba(72,65,253,1) 100%);
+    margin: auto;
+    padding: 2%;
+    justify-content: space-around;
+}
+
+.boton{
+    justify-content: center;
+    text-align: center;
+    margin: 2%;
+}
+
+.bg-navdisp{
+    justify-content:end;
+}
+
+.itemCount{
+    justify-content: center;
+    text-align: center;
+    margin: 2%;
+}
